@@ -234,12 +234,12 @@ figure {
   -ms-box-shadow: none !important;
   -o-box-shadow: none !important;
   box-shadow: none !important;
-  padding-right: 150px;
+  padding-right: 155px;
   padding-left: 30px;
   border: none !important;
   background: #eeeeee;
-  height: 72px;
-  font-size: 18px;
+  height: 52px;
+  font-size: 16px;
 }
 
 #fh5co-subscribe .form-group .btn {
