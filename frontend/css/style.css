@@ -273,7 +273,7 @@ figure {
 #fh5co-subscribe .form-group .tip {
   margin-top: 10px;
   margin-left: 30px;
-  font-size: 12px;
+  font-size: 32px;
   color: #5e3b61;
 }
 
@@ -315,7 +315,7 @@ figure {
 
 #fh5co-footer .fh5co-copyright p {
   font-size: 13px;
-  color: #bfbfbf;
+  color: #383838;
 }
 
 #fh5co-footer .fh5co-copyright p:last-child {
