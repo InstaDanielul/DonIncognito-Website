@@ -204,7 +204,7 @@ figure {
 
 .fh5co-intro h2 {
   margin-bottom: 10px;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 800;
 }
 
@@ -252,7 +252,7 @@ figure {
   font-size: 14px;
   color: #fff;
   border: none !important;
-  background: #0bbbe6;
+  background: #2081E2;
   color: #fff;
   text-transform: uppercase;
   border-top-right-radius: 100px;
@@ -272,8 +272,7 @@ figure {
 
 #fh5co-subscribe .form-group .tip {
   margin-top: 10px;
-  margin-left: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   font-size: 14px;
   color: #5e3b61;
 }
